@@ -1,4 +1,4 @@
 # OX-Template
 
 Lien pour télécharger la base : 
-  - https://www.mediafire.com/file/8o6wzx3jfy2rcc7/OX_Template.zip/file
+  - https://www.mediafire.com/file/6f63xaiiflzlor1/OX_Template.zip/file
