@@ -1,4 +1,5 @@
 # OX-Template
 
 Lien pour télécharger la base : 
-  - https://www.mediafire.com/file/6f63xaiiflzlor1/OX_Template.zip/file
+  - https://mega.nz/file/QtZjFajb
+  - Clé de déchiffrement : kSgGQlvLsyPQtdVN99OA2POKH3yCXvg05hQOPLUVk-k
