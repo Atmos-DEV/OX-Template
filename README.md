@@ -19,7 +19,7 @@ https://youtu.be/LkJR93QOwyE
 
 # Informations
 
- OX INVENTORY : 
+* OX INVENTORY : 
  
 	 Modifier/Ajouter la liste des items : ...\resources\[Default]\[Inventory]\ox_inventory\data\items.lua ou directement sur la base de données
  
@@ -30,13 +30,13 @@ https://youtu.be/LkJR93QOwyE
 	 Modifier/Ajouter des coffres (entreprises, gangs etc...) : ...\resources\[Default]\[Inventory]\ox_inventory\data\stashes.lua
 
 
- OPTIONNEL : 
+* OPTIONNEL : 
  
 	 Modifier/Ajouter des garages (entreprises, ou publique) : ...\resources\[Optionnel]\Garage+Location\others\garage\shared\config.lua
  
 	 Modifier/Ajouter des endroits de locations : ...\resources\[Optionnel]\Garage+Location\others\location\shared\config.lua
 
-Le dossier [OPTIONNEL] n'est en aucun cas nécessaire au bon fonctionnement de la base. Il peux être supprimé. Toutes modifications dans le dossier [Default] peux conduire à des soucis de fonctionnement.
+* Le dossier [OPTIONNEL] n'est en aucun cas nécessaire au bon fonctionnement de la base. Il peux être supprimé. Toutes modifications dans le dossier [Default] peux conduire à des soucis de fonctionnement.
 
 # Developper
 * [Atmos-Dev](https://github.com/Atmos-DEV)
