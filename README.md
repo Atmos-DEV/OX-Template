@@ -20,6 +20,7 @@ https://youtu.be/LkJR93QOwyE
 # Informations
 
  OX INVENTORY : 
+ 
 	 Modifier/Ajouter la liste des items : ...\resources\[Default]\[Inventory]\ox_inventory\data\items.lua ou directement sur la base de données
  
 	 Modifier la liste des shops/armurerie etc ... : ...\resources\[Default]\[Inventory]\ox_inventory\data\shops.lua
@@ -30,6 +31,7 @@ https://youtu.be/LkJR93QOwyE
 
 
  OPTIONNEL : 
+ 
 	 Modifier/Ajouter des garages (entreprises, ou publique) : ...\resources\[Optionnel]\Garage+Location\others\garage\shared\config.lua
  
 	 Modifier/Ajouter des endroits de locations : ...\resources\[Optionnel]\Garage+Location\others\location\shared\config.lua
